@@ -6,3 +6,4 @@
 REPORT ZAULA0.
 
 Write: / 'hello world'.
+Write: / 'teste'.
